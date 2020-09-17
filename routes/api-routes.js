@@ -50,4 +50,15 @@ module.exports = function(app) {
       });
     }
   });
+  app.get("/api/joke", (req, res) => {
+    db.Joke.findAll({
+
+    })
+    .then( function( data ){
+      // Otherwise send back the user's email and id
+      // Sending back a password, even a hashed password, isn't a good idea
+      res.json(data);
+    });
+  });
 };
+
