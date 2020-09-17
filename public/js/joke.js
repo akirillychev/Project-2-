@@ -1,7 +1,15 @@
 //$("h1").text("Chuck Norris")
 
+const { sequelize } = require("../../models");
+
+var Joke = '/api/joke'
+
+function jokeGenerator(callback) {
+    joke = $()
+}
+
 $.get({
-    url: "/api/joke"
+    url: '/api/joke'
 }).then(function (data){
     console.log(data);
     data.map( function(joke){
@@ -12,3 +20,6 @@ $.get({
 `)
     });
 });
+
+  
+
