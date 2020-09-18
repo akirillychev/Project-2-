@@ -24,7 +24,7 @@ db.Joke.create({rating: "R", joke: "Chuck Norris lost his virginity before his d
 db.Joke.create({rating: "R", joke: "Chuck Norris once challenged Lance Armstrong in a 'Who has more testicles?'' contest. Chuck Norris won by 5. "});
 db.Joke.create({rating: "R", joke: "Chuck Norris once ate a whole cake before his friends could tell him there was a stripper in it. "});
 db.Joke.create({rating: "R", joke: "When Chuck Norris has sex with a man, it won't be because he is gay. It will be because he has run out of women. "});
-db.Joke.create({rating: "R", joke: "Chuck Norris invetned the bolt-action rifle, liquour, sexual intercourse, and football in that order. "});
+db.Joke.create({rating: "R", joke: "Chuck Norris invented the bolt-action rifle, liquour, sexual intercourse, and football in that order. "});
 db.Joke.create({rating: "R", joke: "Chuck Norris roundhouse kicks don't really kill people. They wipe out their entire existence from the space time continuum."});
 db.Joke.create({rating: "R", joke: "Hellen Keller's favorite color is Chuck Norris "});
 db.Joke.create({rating: "R", joke: "Chuck Norris cannot love, he can only not kill. "});
