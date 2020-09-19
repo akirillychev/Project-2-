@@ -50,9 +50,10 @@ module.exports = function(app) {
       });
     }
   });
-  app.get("/api/joke", (req, res) => {
+  app.get("/api/joke/:rating", (req, res) => {
     db.Joke.findAll({
-
+      attributes: ['rating', 'joke'],
+      where: {rating: req.params.rating}
     })
     .then( function( data ){
       // Otherwise send back the user's email and id
