@@ -2,9 +2,6 @@
 Create an application that generates a random Chuck Norris based on user-selected criteria. This app will run in the browser and heroku. It will also feature a clean and polished user interface and be responsive.
 
 
-User Story
-As a coding student I want to be able to post questions or answer questions of my fellow students.
-I also want to be able to quiz myself on possible interview questions. So that I can be prepared for any new challenges.
 
 Acceptance Criteria
 
