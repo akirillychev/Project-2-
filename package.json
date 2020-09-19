@@ -9,7 +9,7 @@
     "lint": "eslint --quiet .",
     "fix": "eslint --fix .",
     "watch": "nodemon server.js",
-    "heroku-postbuild": "node seed_db.js"
+    "heroku-postbuild": "node seed_db.js",
     "test": "echo 0"
   },
   "keywords": [],
