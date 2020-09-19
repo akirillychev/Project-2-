@@ -26,3 +26,9 @@ width: max-content;
 button {
   margin-bottom: 1rem;
 }
+
+.brand-logo{
+  width: 150px;
+  height: 65px;
+  
+}
