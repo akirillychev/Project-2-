@@ -23,11 +23,10 @@ MySQL
 Sequelize
 Materialize
 
-
-
+REPO Link
+https://github.com/akirillychev/Project-2-
 Deployed App
-file:///C:/Users/andrew/Desktop/Project-2-/public/joke.html
-
+https://young-lowlands-65905.herokuapp.com/joke.html
 screenoshot
 ![screenshot](public\img\screenshot project 2.PNG)
 ![screenshot]
